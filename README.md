@@ -106,12 +106,14 @@ arXiv, 2023. [[Paper]](https://arxiv.org/abs/2305.12487)
 
 
 ## <a name="surveys"></a> Open-Ended AI Safety
+
 * **Open Questions in Creating Safe Open-ended AI: Tensions Between Control and Creativity** <br>
 *Adrien Ecoffet, Jeff Clune, Joel Lehman* <br>
 arXiv, 2020. [[Paper]](https://arxiv.org/abs/2006.07495) 
 
 
 ## <a name="safety"></a> Surveys and Perspectives on Open-Endedness
+
 * **Open-endedness: The last grand challenge you’ve never heard of** <br>
 *Kenneth O. Stanley, Joel Lehman, Lisa Soros* <br>
 O'Reilly Radar, 2017. [[Paper]](https://www.oreilly.com/radar/open-endedness-the-last-grand-challenge-youve-never-heard-of/)
