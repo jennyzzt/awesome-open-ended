@@ -66,7 +66,11 @@ arXiv, 2022. [[Paper]](https://arxiv.org/abs/2206.08896) [[Code]](https://github
 
 * **Transfer Dynamics in Emergent Evolutionary Curricula** <br>
 *Aaron Dharna, Amy K. Hoover, Julian Togelius, Lisa Soros*  <br>
-IEEE Transactions on Games, 2022. [[Paper]](https://arxiv.org/abs/2203.10941)
+IEEE Transactions on Games, 2022. [[Paper]](https://arxiv.org/abs/2203.10941)[[Code]](https://github.com/aadharna/UntouchableThunder)
+
+* **Watts: Infrastructure for Open-Ended Learning** <br>
+*Aaron Dharna, Charlie Summers, Rohin Dasari, Julian Togelius, Amy K. Hoover* <br>
+ALOE Workshop 2022 [[Paper]](https://arxiv.org/abs/2204.13250) [[Code]](https://github.com/aadharna/watts)
 
 * **MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge** <br>
 *Linxi Fan, Guanzhi Wang, Yunfan Jiang, Ajay Mandlekar, Yuncong Yang, Haoyi Zhu, Andrew Tang, De-An Huang, Yuke Zhu, Anima Anandkumar* <br>
