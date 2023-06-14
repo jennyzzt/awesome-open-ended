@@ -24,6 +24,10 @@ GECCO, 2019. [[Paper]](https://arxiv.org/abs/1901.01753) [[Code]](https://github
 *Rui Wang, Joel Lehman, Aditya Rawal, Jiale Zhi, Yulun Li, Jeff Clune, Kenneth O. Stanley* <br>
 ICML, 2020. [[Paper]](https://arxiv.org/abs/2003.08536) [[Code]](https://github.com/uber-research/poet) [[Website]](https://www.uber.com/en-CA/blog/enhanced-poet-machine-learning/)
 
+* **Co-generation of game levels and game-playing agents** <br>
+*Aaron Dharna, Julian Togelius, L.B.Soros* <br>
+AIIDE 2020. [[Paper]](https://arxiv.org/abs/2007.08497) [[Code]](https://github.com/aadharna/UntouchableThunder)
+
 * **Emergent Complexity and Zero-shot Transfer via Unsupervised Environment Design** <br>
 *Michael Dennis, Natasha Jaques, Eugene Vinitsky, Alexandre Bayen, Stuart Russell, Andrew Critch, Sergey Levine* <br>
 NeurIPS, 2020. [[Paper]](https://arxiv.org/abs/2012.02096) [[Code]](https://github.com/google-research/google-research/tree/master/social_rl/adversarial_env) [[Website]](https://ai.googleblog.com/2021/03/paired-new-multi-agent-approach-for.html)
