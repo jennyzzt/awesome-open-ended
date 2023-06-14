@@ -48,6 +48,10 @@ NeurIPS, 2021. [[Paper]](https://arxiv.org/abs/2109.13202) [[Code]](https://gith
 *Open Ended Learning Team, Adam Stooke, Anuj Mahajan, Catarina Barros, Charlie Deck, Jakob Bauer, Jakub Sygnowski, Maja Trebacz, Max Jaderberg, Michael Mathieu, Nat McAleese, Nathalie Bradley-Schmieg, Nathaniel Wong, Nicolas Porcel, Roberta Raileanu, Steph Hughes-Fitt, Valentin Dalibard, Wojciech Marian Czarnecki* <br>
 arXiv, 2021. [[Paper]](https://arxiv.org/abs/2107.12808) [[Website]](https://www.deepmind.com/blog/generally-capable-agents-emerge-from-open-ended-play)
 
+* **SPOTTER: Extending Symbolic Planning Operators through Targeted Reinforcement Learning** <br>
+*Vasanth Sarathy, Daniel Kasenberg, Shivam Goel, Jivko Sinapov, Matthias Scheutz* <br>
+arXiv, 2021. [[Paper]](https://arxiv.org/abs/2012.13037) [[Code]](https://github.com/spotter-ai/spotter) 
+
 * **EvoCraft: A New Challenge for Open-Endedness** <br>
 *Djordje Grbic, Rasmus Berg Palm, Elias Najarro, Claire Glanois, Sebastian Risi* <br>
 EvoStar, 2021. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-72699-7_21) [[Website]](https://evocraft.life/)
@@ -63,6 +67,10 @@ ICML, 2022. [[Paper]](https://arxiv.org/abs/2203.01302) [[Code]](https://github.
 * **Evolution through Large Models** <br>
 *Joel Lehman, Jonathan Gordon, Shawn Jain, Kamal Ndousse, Cathy Yeh, Kenneth Stanley* <br>
 arXiv, 2022. [[Paper]](https://arxiv.org/abs/2206.08896) [[Code]](https://github.com/CarperAI/OpenELM)
+
+* **RAPid-Learn: A Framework for Learning to Recover for Handling Novelties in Open-World Environments** <br>
+*Shivam Goel, Yash Shukla, Vasanth Sarathy, Matthias Scheutz, Jivko Sinapov* <br>
+arXiv, 2022. [[Paper]](https://arxiv.org/abs/2206.12493) [[Code]](https://github.com/goelshivam1210/RAPid-Learn) 
 
 * **Transfer Dynamics in Emergent Evolutionary Curricula** <br>
 *Aaron Dharna, Amy K. Hoover, Julian Togelius, Lisa Soros*  <br>
@@ -125,6 +133,10 @@ arXiv, 2019. [[Book]](https://link.springer.com/book/10.1007/978-3-319-15524-1)
 * **AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence** <br>
 *Jeff Clune* <br>
 arXiv, 2019. [[Paper]](https://arxiv.org/abs/1905.10985)
+
+* **Creative Problem Solving in Artificially Intelligent Agents: A Survey and Framework** <br>
+*Evana Gizzi, Lakshmi Nair, Sonia Chernova, Jivko Sinapov* <br>
+arXiv, 2022. [[Paper]](https://arxiv.org/abs/2204.10358)
 
 * **General Intelligence Requires Rethinking Exploration** <br>
 *Minqi Jiang, Tim Rocktäschel, Edward Grefenstette* <br>
