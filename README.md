@@ -57,7 +57,7 @@ arXiv, 2021. [[Paper]](https://arxiv.org/abs/2012.13037) [[Code]](https://github
 EvoStar, 2021. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-72699-7_21) [[Website]](https://evocraft.life/)
 
 * **Video Games as a Testbed for Open-Ended Phenomena** <br>
-*Sam Earle; Julian Togelius; L. B. Soros*
+*Sam Earle; Julian Togelius; L. B. Soros* <br>
 IEEE Conference on Games, 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9619042)
 
 * **Evolving Curricula with Regret-Based Environment Design** <br>
@@ -74,7 +74,7 @@ arXiv, 2022. [[Paper]](https://arxiv.org/abs/2206.12493) [[Code]](https://github
 
 * **Transfer Dynamics in Emergent Evolutionary Curricula** <br>
 *Aaron Dharna, Amy K. Hoover, Julian Togelius, Lisa Soros*  <br>
-IEEE Transactions on Games, 2022. [[Paper]](https://arxiv.org/abs/2203.10941)[[Code]](https://github.com/aadharna/UntouchableThunder)
+IEEE Transactions on Games, 2022. [[Paper]](https://arxiv.org/abs/2203.10941) [[Code]](https://github.com/aadharna/UntouchableThunder)
 
 * **Watts: Infrastructure for Open-Ended Learning** <br>
 *Aaron Dharna, Charlie Summers, Rohin Dasari, Julian Togelius, Amy K. Hoover* <br>
