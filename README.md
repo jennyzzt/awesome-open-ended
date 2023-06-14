@@ -42,7 +42,7 @@ NeurIPS, 2021. [[Paper]](https://arxiv.org/abs/2201.08896)
 
 * **MiniHack the Planet: A Sandbox for Open-Ended Reinforcement Learning Research** <br>
 *Mikayel Samvelyan, Robert Kirk, Vitaly Kurin, Jack Parker-Holder, Minqi Jiang, Eric Hambro, Fabio Petroni, Heinrich Küttler, Edward Grefenstette, Tim Rocktäschel* <br>
-NeurIPS, 2021. [[Paper]](https://arxiv.org/abs/2109.13202) [[Code]](https://github.com/facebookresearch/minihack)
+NeurIPS, 2021. [[Paper]](https://arxiv.org/abs/2109.13202) [[Code]](https://github.com/facebookresearch/minihack) [[Website]](https://minihack.readthedocs.io)
 
 * **Open-Ended Learning Leads to Generally Capable Agents** <br>
 *Open Ended Learning Team, Adam Stooke, Anuj Mahajan, Catarina Barros, Charlie Deck, Jakob Bauer, Jakub Sygnowski, Maja Trebacz, Max Jaderberg, Michael Mathieu, Nat McAleese, Nathalie Bradley-Schmieg, Nathaniel Wong, Nicolas Porcel, Roberta Raileanu, Steph Hughes-Fitt, Valentin Dalibard, Wojciech Marian Czarnecki* <br>
