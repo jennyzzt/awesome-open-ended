@@ -146,6 +146,10 @@ arXiv, 2019. [[Paper]](https://arxiv.org/abs/1905.10985)
 *Evana Gizzi, Lakshmi Nair, Sonia Chernova, Jivko Sinapov* <br>
 arXiv, 2022. [[Paper]](https://arxiv.org/abs/2204.10358)
 
+* **Executive Function: A Contrastive Value Policy for Resampling and Relabeling Perceptions via Hindsight Summarization?** <br>
+*Chris Lengerich, Ben Lengerich.* <br>
+arXiv, 2022. [[Paper]](https://arxiv.org/abs/2204.12639)
+
 * **General Intelligence Requires Rethinking Exploration** <br>
 *Minqi Jiang, Tim Rocktäschel, Edward Grefenstette* <br>
 Royal Society Open Science, 2023. [[Paper]](https://arxiv.org/abs/2211.07819)
