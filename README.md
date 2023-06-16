@@ -124,6 +124,10 @@ arXiv, 2023. [[Paper]](https://arxiv.org/abs/2306.01711) [[Code]](https://github
 *Cédric Colas, Laetitia Teodorescu, Pierre-Yves Oudeyer, Xingdi Yuan, Marc-Alexandre Côté* <br>
 arXiv, 2023. [[Paper]](https://arxiv.org/abs/2305.12487)
 
+* **Reward-Free Curricula for Training Robust World Models** <br>
+*Marc Rigter, Minqi Jiang, Ingmar Posner* <br>
+arXiv, 2023. [[Paper]](https://arxiv.org/abs/2306.09205)
+
 
 ## <a name="surveys"></a> Open-Ended AI Safety
 
