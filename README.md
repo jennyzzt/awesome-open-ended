@@ -16,6 +16,10 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ## <a name="papers"></a> Papers
 
+* **Minimal Criterion Coevolution: A New Approach to Open-Ended Search** <br>
+*Jonathan C. Brant, Kenneth O. Stanley* <br>
+GECCO, 2017. [[Paper]](https://eplex.cs.ucf.edu/papers/brant_gecco17.pdf) [[Code]](https://github.com/jbrant/MinimalCriterionCoevolution)
+
 * **Paired Open-Ended Trailblazer (POET): Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions** <br>
 *Rui Wang, Joel Lehman, Jeff Clune, Kenneth O. Stanley* <br>
 GECCO, 2019. [[Paper]](https://arxiv.org/abs/1901.01753) [[Code]](https://github.com/uber-research/poet) [[Website]](https://www.uber.com/en-CA/blog/poet-open-ended-deep-learning/)
@@ -153,4 +157,3 @@ arXiv, 2022. [[Paper]](https://arxiv.org/abs/2204.12639)
 * **General Intelligence Requires Rethinking Exploration** <br>
 *Minqi Jiang, Tim Rocktäschel, Edward Grefenstette* <br>
 Royal Society Open Science, 2023. [[Paper]](https://arxiv.org/abs/2211.07819)
-
