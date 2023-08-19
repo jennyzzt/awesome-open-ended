@@ -122,7 +122,7 @@ arXiv, 2023. [[Paper]](https://arxiv.org/abs/2305.16291) [[Code]](https://github
 
 * **OMNI: Open-endedness via Models of human Notions of Interestingness** <br>
 *Jenny Zhang, Joel Lehman, Kenneth Stanley, Jeff Clune* <br>
-arXiv, 2023. [[Paper]](https://arxiv.org/abs/2306.01711) [[Code]](https://github.com/jennyzzt/omni)
+arXiv, 2023. [[Paper]](https://arxiv.org/abs/2306.01711) [[Code]](https://github.com/jennyzzt/omni) [[Website]](http://www.jennyzhangzt.com/omni/)
 
 * **Augmenting Autotelic Agents with Large Language Models** <br>
 *Cédric Colas, Laetitia Teodorescu, Pierre-Yves Oudeyer, Xingdi Yuan, Marc-Alexandre Côté* <br>
