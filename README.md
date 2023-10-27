@@ -100,6 +100,10 @@ NeurIPS 2022. [[Paper]](https://arxiv.org/abs/2207.05219)
 *Cédric Colas, Tristan Karch, Clément Moulin-Frier, Pierre-Yves Oudeyer* <br>
 Nature Machine Intelligence, 2022. [[Paper]](https://arxiv.org/abs/2206.01134) [[Website]](https://vygotskian-autotelic-ai.github.io/)
 
+* **Flow-Lenia: Towards open-ended evolution in cellular automata through mass conservation and parameter localization** <br>
+*Erwan Plantec, Gautier Hamon, Mayalen Etcheverry, Pierre-Yves Oudeyer, Clément Moulin-Frier, Bert Wang-Chak Chan* <br>
+ALife 2023. [[Paper]](https://direct.mit.edu/isal/proceedings/isal/35/131/116921)
+
 * **MAESTRO: Open-Ended Environment Design for Multi-Agent Reinforcement Learning** <br>
 *Mikayel Samvelyan, Akbir Khan, Michael Dennis, Minqi Jiang, Jack Parker-Holder, Jakob Foerster, Roberta Raileanu, Tim Rocktäschel* <br>
 ICLR, 2023. [[Paper]](https://arxiv.org/abs/2303.03376) [[Website]](https://sites.google.com/view/maestro-ued)
@@ -131,6 +135,30 @@ arXiv, 2023. [[Paper]](https://arxiv.org/abs/2305.12487)
 * **Reward-Free Curricula for Training Robust World Models** <br>
 *Marc Rigter, Minqi Jiang, Ingmar Posner* <br>
 arXiv, 2023. [[Paper]](https://arxiv.org/abs/2306.09205)
+
+* **Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution** <br>
+*Chrisantha Fernando, Dylan Banarse, Henryk Michalewski, Simon Osindero, Tim Rocktäschel* <br>
+arXiv, 2023. [[Paper]](https://arxiv.org/abs/2309.16797)
+
+* **Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation** <br>
+*Eric Zelikman, Eliana Lorch, Lester Mackey, Adam Tauman Kalai* <br>
+arXiv, 2023. [[Paper]](https://arxiv.org/abs/2310.02304)
+
+* **Motif: Intrinsic Motivation from Artificial Intelligence Feedback** <br>
+*Martin Klissarov, Pierluca D'Oro, Shagun Sodhani, Roberta Raileanu, Pierre-Luc Bacon, Pascal Vincent, Amy Zhang, Mikael Henaff* <br>
+arXiv, 2023. [[Paper]](https://arxiv.org/abs/2310.00166) [[Code]](https://github.com/facebookresearch/motif)
+
+* **Quality-Diversity through AI Feedback** <br>
+*Herbie Bradley, Andrew Dai, Hannah Teufel, Jenny Zhang, Koen Oostermeijer, Marco Bellagente, Jeff Clune, Kenneth Stanley, Grégory Schott, Joel Lehman* <br>
+arXiv, 2023. [[Paper]](https://arxiv.org/abs/2310.13032) [[Website]](https://qdaif.github.io/)
+
+* **Quality Diversity through Human Feedback** <br>
+*Li Ding, Jenny Zhang, Jeff Clune, Lee Spector, Joel Lehman* <br>
+arXiv, 2023. [[Paper]](https://arxiv.org/abs/2310.12103)
+
+* **Eureka: Human-Level Reward Design via Coding Large Language Models** <br>
+*Yecheng Jason Ma, William Liang, Guanzhi Wang, De-An Huang, Osbert Bastani, Dinesh Jayaraman, Yuke Zhu, Linxi Fan, Anima Anandkumar* <br>
+arXiv, 2023. [[Paper]](https://arxiv.org/abs/2310.12931) [[Code]](https://github.com/eureka-research/Eureka) [[Website]](https://eureka-research.github.io/)
 
 
 ## <a name="surveys"></a> Open-Ended AI Safety
