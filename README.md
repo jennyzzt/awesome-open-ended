@@ -120,6 +120,10 @@ ICML, 2023. [[Paper]](https://arxiv.org/abs/2301.07608) [[Website]](https://site
 *Martin Klissarov, Marlos C. Machado* <br>
 ICML, 2023. [[Paper]](https://arxiv.org/abs/2301.11181) [[Blogpost 1]](https://medium.com/@marlos.cholodovskis/the-representation-driven-option-discovery-cycle-e3f5877696c2) [[Blogpost2]](https://medium.com/@marlos.cholodovskis/deep-laplacian-based-options-for-temporally-extended-exploration-7bf8dd469838)
 
+* **Discovering General Reinforcement Learning Algorithms with Adversarial Environment Design** <br>
+*Matthew T. Jackson, Minqi Jiang, Jack Parker-Holder, Risto Vuorio, Chris Lu, Gregory Farquhar, Shimon Whiteson, Jakob N. Foerster* <br>
+NeurIPS, 2023. [[Paper]](https://arxiv.org/abs/2310.02782) [[Code]](https://github.com/EmptyJackson/groove)
+
 * **Voyager: An Open-Ended Embodied Agent with Large Language Models** <br>
 *Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar* <br>
 arXiv, 2023. [[Paper]](https://arxiv.org/abs/2305.16291) [[Code]](https://github.com/MineDojo/Voyager) [[Website]](https://voyager.minedojo.org/)
