@@ -68,6 +68,10 @@ EvoStar, 2021. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-726
 *Sam Earle; Julian Togelius; L. B. Soros* <br>
 IEEE Conference on Games, 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9619042)
 
+* **Minimal Criterion Artist Collective** <br>
+*Kai Arulkumaran; Thu Nguyen-Phuoc* <br>
+GECCO, 2022. [[Paper]](https://dl.acm.org/doi/10.1145/3520304.3528763) [[Code]](https://github.com/Kaixhin/MCAC)
+
 * **Evolving Curricula with Regret-Based Environment Design** <br>
 *Jack Parker-Holder\*, Minqi Jiang\*, Michael Dennis, Mikayel Samvelyan, Jakob Foerster, Edward Grefenstette, Tim Rocktäschel* <br>
 ICML, 2022. [[Paper]](https://arxiv.org/abs/2203.01302) [[Code]](https://github.com/facebookresearch/dcd) [[Demo]](https://accelagent.github.io/)
