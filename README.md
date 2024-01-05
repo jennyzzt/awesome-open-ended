@@ -1,5 +1,5 @@
 # Awesome Open-Ended AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of AI open-ended learning resources. As the list grows longer, I will split it into more sections.
+A curated list of open-ended learning AI resources. The aim of open-ended algorithms is to keep on inventing new and ever-more complex tasks and solving them continually, even endlessly. From the invention of the wheel, to farming, vaccines, computers, and even rock and roll. These so-far uniquely human advancements and discoveries are the hallmark of civilization. What does AI need to possess to discover such new paradigms, as only humans have until now? Let's take a look at our progress on this frontier. How close are we to AGI?
 
 ## Table of Contents
 * [Papers](#papers)
