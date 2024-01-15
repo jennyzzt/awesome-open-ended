@@ -36,6 +36,10 @@ AIIDE 2020. [[Paper]](https://arxiv.org/abs/2007.08497) [[Code]](https://github.
 *Michael Dennis, Natasha Jaques, Eugene Vinitsky, Alexandre Bayen, Stuart Russell, Andrew Critch, Sergey Levine* <br>
 NeurIPS, 2020. [[Paper]](https://arxiv.org/abs/2012.02096) [[Code]](https://github.com/google-research/google-research/tree/master/social_rl/adversarial_env) [[Website]](https://ai.googleblog.com/2021/03/paired-new-multi-agent-approach-for.html)
 
+* **Co-optimising Robot Morphology and Controller in a Simulated Open-Ended Environment** <br>
+*Emma Hjellbrekke Stensby, Kai Olav Ellefsen, Kyrre Glette* <br>
+EvoStar 2021. [[Paper]](https://arxiv.org/pdf/2104.03062.pdf) [[Code]](https://github.com/EmmaStensby/poet-morphology)
+
 * **Prioritized Level Replay** <br>
 *Minqi Jiang, Edward Grefenstette, Tim Rocktäschel* <br>
 ICML, 2021. [[Paper]](https://arxiv.org/abs/2010.03934) [[Code]](https://github.com/facebookresearch/level-replay)
@@ -67,6 +71,10 @@ EvoStar, 2021. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-726
 * **Video Games as a Testbed for Open-Ended Phenomena** <br>
 *Sam Earle; Julian Togelius; L. B. Soros* <br>
 IEEE Conference on Games, 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9619042)
+
+* **Open-ended search for environments and adapted agents using map-elites** <br>
+*Emma Stensby Norstein, Kai Olav Ellefsen, Kyrre Glette* <br>
+EvoStar, 2022. [[Paper]](https://arxiv.org/pdf/2305.01153.pdf) [[Code]](https://github.com/EmmaStensby/environment-map)
 
 * **Minimal Criterion Artist Collective** <br>
 *Kai Arulkumaran; Thu Nguyen-Phuoc* <br>
