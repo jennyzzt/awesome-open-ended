@@ -186,13 +186,13 @@ arXiv, 2020. [[Paper]](https://arxiv.org/abs/2006.07495)
 
 ## <a name="safety"></a> Surveys and Perspectives on Open-Endedness
 
+* **Why Greatness Cannot Be Planned: The Myth of the Objective** <br>
+*Kenneth O. Stanley, Joel Lehman* <br>
+Springer, 2015. [[Book]](https://link.springer.com/book/10.1007/978-3-319-15524-1)
+
 * **Open-endedness: The last grand challenge you’ve never heard of** <br>
 *Kenneth O. Stanley, Joel Lehman, Lisa Soros* <br>
 O'Reilly Radar, 2017. [[Paper]](https://www.oreilly.com/radar/open-endedness-the-last-grand-challenge-youve-never-heard-of/)
-
-* **Why Greatness Cannot Be Planned: The Myth of the Objective** <br>
-*Kenneth Stanley, Joel Lehman* <br>
-arXiv, 2019. [[Book]](https://link.springer.com/book/10.1007/978-3-319-15524-1)
 
 * **AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence** <br>
 *Jeff Clune* <br>
