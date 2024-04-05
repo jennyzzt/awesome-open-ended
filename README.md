@@ -176,6 +176,9 @@ arXiv, 2023. [[Paper]](https://arxiv.org/abs/2310.12103)
 *Yecheng Jason Ma, William Liang, Guanzhi Wang, De-An Huang, Osbert Bastani, Dinesh Jayaraman, Yuke Zhu, Linxi Fan, Anima Anandkumar* <br>
 arXiv, 2023. [[Paper]](https://arxiv.org/abs/2310.12931) [[Code]](https://github.com/eureka-research/Eureka) [[Website]](https://eureka-research.github.io/)
 
+* **OS-Copilot: Towards Generalist Computer Agents with Self-Improvement** <br>
+*Zhiyong Wu*, Chengcheng Han*, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Yao, Tao Yu, Lingpeng Kong <br>
+arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2402.07456.pdf) [[Code]](https://github.com/OS-Copilot/FRIDAY) [[Website]](https://os-copilot.github.io/)
 
 ## <a name="surveys"></a> Open-Ended AI Safety
 
