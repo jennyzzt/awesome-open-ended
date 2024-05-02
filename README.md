@@ -186,6 +186,9 @@ arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2402.07456.pdf) [[Code]](https://gi
 *Adrien Ecoffet, Jeff Clune, Joel Lehman* <br>
 arXiv, 2020. [[Paper]](https://arxiv.org/abs/2006.07495) 
 
+* **Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts** <br>
+*Mikayel Samvelyan, Sharath Chandra Raparthy, Andrei Lupu, Eric Hambro, Aram H. Markosyan, Manish Bhatt, Yuning Mao, Minqi Jiang, Jack Parker-Holder, Jakob Foerster, Tim Rocktäschel, Roberta Raileanu* <br>
+arXiv, 2024. [[Paper]](https://arxiv.org/abs/2402.16822) 
 
 ## <a name="safety"></a> Surveys and Perspectives on Open-Endedness
 
