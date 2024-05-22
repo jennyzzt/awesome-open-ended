@@ -180,12 +180,19 @@ arXiv, 2023. [[Paper]](https://arxiv.org/abs/2310.12931) [[Code]](https://github
 *Zhiyong Wu*, Chengcheng Han*, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Yao, Tao Yu, Lingpeng Kong <br>
 arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2402.07456.pdf) [[Code]](https://github.com/OS-Copilot/FRIDAY) [[Website]](https://os-copilot.github.io/)
 
+* **Multi-Agent Diagnostics for Robustness via Illuminated Diversity** <br>
+*Mikayel Samvelyan, Davide Paglieri, Minqi Jiang, Jack Parker-Holder, Tim Rocktäschel* <br>
+AAMAS, 2024. [[Paper]](https://arxiv.org/abs/2401.13460) [[Website]](https://sites.google.com/view/madrid-marl)
+
 ## <a name="surveys"></a> Open-Ended AI Safety
 
 * **Open Questions in Creating Safe Open-ended AI: Tensions Between Control and Creativity** <br>
 *Adrien Ecoffet, Jeff Clune, Joel Lehman* <br>
 arXiv, 2020. [[Paper]](https://arxiv.org/abs/2006.07495) 
 
+* **Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts** <br>
+*Mikayel Samvelyan, Sharath Chandra Raparthy, Andrei Lupu, Eric Hambro, Aram H. Markosyan, Manish Bhatt, Yuning Mao, Minqi Jiang, Jack Parker-Holder, Jakob Foerster, Tim Rocktäschel, Roberta Raileanu* <br>
+arXiv, 2024. [[Paper]](https://arxiv.org/abs/2402.16822) [[Website]](https://sites.google.com/view/rainbow-teaming)
 
 ## <a name="safety"></a> Surveys and Perspectives on Open-Endedness
 
