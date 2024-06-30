@@ -1,10 +1,11 @@
 # Awesome Open-Ended AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of open-ended learning AI resources. The aim of open-ended algorithms is to keep on inventing new and ever-more complex tasks and solving them continually, even endlessly. From the invention of the wheel, to farming, vaccines, computers, and even rock and roll. These so-far uniquely human advancements and discoveries are the hallmark of civilization. What does AI need to possess to discover such new paradigms, as only humans have until now? Let's take a look at our progress on this frontier. How close are we to AGI?
+A curated list of open-ended learning AI resources. The aim of open-ended algorithms is to keep on inventing new and ever-more complex tasks and solving them continually, even endlessly. From the invention of the wheel, to farming, vaccines, computers, and even rock and roll. These so-far uniquely human advancements and discoveries are the hallmark of civilization. What does AI need to possess to discover such new paradigms, as only humans have until now? Let's take a look at our progress on this frontier.
 
 ## Table of Contents
 * [Papers](#papers)
 * [Open-ended AI Safety](#safety)
 * [Surveys and Perspectives](#surveys)
+* [Blog Posts and Hacks](#blogs)
 
 ## <a name="contributing"></a> Contributing
 When submitting a pull request, please put the new paper at the correct chronological position as the following format: <br>
@@ -140,10 +141,6 @@ NeurIPS, 2023. [[Paper]](https://arxiv.org/abs/2310.02782) [[Code]](https://gith
 *Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar* <br>
 arXiv, 2023. [[Paper]](https://arxiv.org/abs/2305.16291) [[Code]](https://github.com/MineDojo/Voyager) [[Website]](https://voyager.minedojo.org/)
 
-* **OMNI: Open-endedness via Models of human Notions of Interestingness** <br>
-*Jenny Zhang, Joel Lehman, Kenneth Stanley, Jeff Clune* <br>
-arXiv, 2023. [[Paper]](https://arxiv.org/abs/2306.01711) [[Code]](https://github.com/jennyzzt/omni) [[Website]](http://www.jennyzhangzt.com/omni/)
-
 * **Augmenting Autotelic Agents with Large Language Models** <br>
 *Cédric Colas, Laetitia Teodorescu, Pierre-Yves Oudeyer, Xingdi Yuan, Marc-Alexandre Côté* <br>
 arXiv, 2023. [[Paper]](https://arxiv.org/abs/2305.12487)
@@ -164,17 +161,25 @@ arXiv, 2023. [[Paper]](https://arxiv.org/abs/2310.02304)
 *Martin Klissarov, Pierluca D'Oro, Shagun Sodhani, Roberta Raileanu, Pierre-Luc Bacon, Pascal Vincent, Amy Zhang, Mikael Henaff* <br>
 arXiv, 2023. [[Paper]](https://arxiv.org/abs/2310.00166) [[Code]](https://github.com/facebookresearch/motif)
 
-* **Quality-Diversity through AI Feedback** <br>
-*Herbie Bradley, Andrew Dai, Hannah Teufel, Jenny Zhang, Koen Oostermeijer, Marco Bellagente, Jeff Clune, Kenneth Stanley, Grégory Schott, Joel Lehman* <br>
-arXiv, 2023. [[Paper]](https://arxiv.org/abs/2310.13032) [[Website]](https://qdaif.github.io/)
-
-* **Quality Diversity through Human Feedback** <br>
-*Li Ding, Jenny Zhang, Jeff Clune, Lee Spector, Joel Lehman* <br>
-arXiv, 2023. [[Paper]](https://arxiv.org/abs/2310.12103)
-
 * **Eureka: Human-Level Reward Design via Coding Large Language Models** <br>
 *Yecheng Jason Ma, William Liang, Guanzhi Wang, De-An Huang, Osbert Bastani, Dinesh Jayaraman, Yuke Zhu, Linxi Fan, Anima Anandkumar* <br>
 arXiv, 2023. [[Paper]](https://arxiv.org/abs/2310.12931) [[Code]](https://github.com/eureka-research/Eureka) [[Website]](https://eureka-research.github.io/)
+
+* **Practical PCG Through Large Language Models** <br>
+*Muhammad U Nasir, Julian Togelius* <br>
+CoG, 2023. [[Paper]](https://arxiv.org/abs/2305.18243)
+
+* **OMNI: Open-endedness via Models of human Notions of Interestingness** <br>
+*Jenny Zhang, Joel Lehman, Kenneth Stanley, Jeff Clune* <br>
+ICLR, 2024. [[Paper]](https://arxiv.org/abs/2306.01711) [[Code]](https://github.com/jennyzzt/omni) [[Website]](http://www.jennyzhangzt.com/omni/)
+
+* **Quality-Diversity through AI Feedback** <br>
+*Herbie Bradley, Andrew Dai, Hannah Teufel, Jenny Zhang, Koen Oostermeijer, Marco Bellagente, Jeff Clune, Kenneth Stanley, Grégory Schott, Joel Lehman* <br>
+ICLR, 2024. [[Paper]](https://arxiv.org/abs/2310.13032) [[Website]](https://qdaif.github.io/)
+
+* **Quality Diversity through Human Feedback** <br>
+*Li Ding, Jenny Zhang, Jeff Clune, Lee Spector, Joel Lehman* <br>
+ICML, 2024. [[Paper]](https://arxiv.org/abs/2310.12103)
 
 * **OS-Copilot: Towards Generalist Computer Agents with Self-Improvement** <br>
 *Zhiyong Wu*, Chengcheng Han*, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Yao, Tao Yu, Lingpeng Kong <br>
@@ -184,17 +189,73 @@ arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2402.07456.pdf) [[Code]](https://gi
 *Mikayel Samvelyan, Davide Paglieri, Minqi Jiang, Jack Parker-Holder, Tim Rocktäschel* <br>
 AAMAS, 2024. [[Paper]](https://arxiv.org/abs/2401.13460) [[Website]](https://sites.google.com/view/madrid-marl)
 
-## <a name="surveys"></a> Open-Ended AI Safety
+* **Evolutionary Optimization of Model Merging Recipes** <br>
+*Takuya Akiba, Makoto Shing, Yujin Tang, Qi Sun, David Ha* <br>
+arXiv, 2024. [[Paper]](https://arxiv.org/abs/2403.13187)
+
+* **Discovering Preference Optimization Algorithms with and for Large Language Models** <br>
+*Chris Lu, Samuel Holt, Claudio Fanconi, Alex J. Chan, Jakob Foerster, Mihaela van der Schaar, Robert Tjarko Lange* <br>
+arXiv, 2024. [[Paper]](https://arxiv.org/abs/2406.08414)
+
+* **Generative Design through Quality-Diversity Data Synthesis and Language Models** <br>
+*Adam Gaier, James Stoddart, Lorenzo Villaggi, Shyam Sudhakaran* <br>
+arXiv, 2024. [[Paper]](https://arxiv.org/abs/2405.09997)
+
+* **OMNI-EPIC: Open-endedness via Models of human Notions of Interestingness with Environments Programmed in Code** <br>
+*Maxence Faldor, Jenny Zhang, Antoine Cully, Jeff Clune* <br>
+arXiv, 2024. [[Paper]](https://arxiv.org/abs/2405.15568) [[Website]](https://omni-epic.vercel.app/)
+
+* **Artificial Generational Intelligence: Cultural Accumulation in Reinforcement Learning** <br>
+*Jonathan Cook, Chris Lu, Edward Hughes, Joel Z. Leibo, Jakob Foerster* <br>
+arXiv, 2024. [[Paper]](https://arxiv.org/abs/2406.00392)
+
+* **Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction** <br>
+*Blaise Agüera y Arcas, Jyrki Alakuijala, James Evans, Ben Laurie, Alexander Mordvintsev, Eyvind Niklasson, Ettore Randazzo, Luca Versari* <br>
+arXiv, 2024. [[Paper]](https://arxiv.org/abs/2406.19108)
+
+* **Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models** <br>
+*Cong Lu, Shengran Hu, Jeff Clune* <br>
+arXiv, 2024. [[Paper]](https://arxiv.org/abs/2405.15143)
+
+* **Genie: Generative Interactive Environments** <br>
+*Jake Bruce, Michael Dennis, Ashley Edwards, Jack Parker-Holder, Yuge Shi, Edward Hughes, Matthew Lai, Aditi Mavalankar, Richie Steigerwald, Chris Apps, Yusuf Aytar, Sarah Bechtle, Feryal Behbahani, Stephanie Chan, Nicolas Heess, Lucy Gonzalez, Simon Osindero, Sherjil Ozair, Scott Reed, Jingwei Zhang, Konrad Zolna, Jeff Clune, Nando de Freitas, Satinder Singh, Tim Rocktäschel* <br>
+arXiv, 2024. [[Paper]](https://arxiv.org/abs/2402.15391)
+
+* **Debating with More Persuasive LLMs Leads to More Truthful Answers** <br>
+*Akbir Khan, John Hughes, Dan Valentine, Laura Ruis, Kshitij Sachan, Ansh Radhakrishnan, Edward Grefenstette, Samuel R. Bowman, Tim Rocktäschel, Ethan Perez* <br>
+arXiv, 2024. [[Paper]](https://arxiv.org/abs/2402.06782)
+
+* **Toward Artificial Open-Ended Evolution within Lenia using Quality-Diversity** <br>
+*Maxence Faldor, Antoine Cully* <br>
+ALife, 2024. [[Paper]](https://arxiv.org/abs/2406.04235)
+
+* **Structurally Flexible Neural Networks: Evolving the Building Blocks for General Agents** <br>
+*Joachim Winther Pedersen, Erwan Plantec, Eleni Nisioti, Milton Montero, Sebastian Risi* <br>
+arXiv, 2024. [[Paper]](https://arxiv.org/abs/2404.15193)
+
+* **DreamCraft: Text-Guided Generation of Functional 3D Environments in Minecraft** <br>
+*Sam Earle, Filippos Kokkinos, Yuhe Nie, Julian Togelius, Roberta Raileanu* <br>
+FDG, 2024. [[Paper]](https://arxiv.org/abs/2404.15538)
+
+* **Large Language Models as In-context AI Generators for Quality-Diversity** <br>
+*Bryan Lim, Manon Flageat, Antoine Cully* <br>
+arXiv, 2024. [[Paper]](https://arxiv.org/abs/2404.15794)
+
+## <a name="safety"></a> Open-Ended AI Safety
 
 * **Open Questions in Creating Safe Open-ended AI: Tensions Between Control and Creativity** <br>
 *Adrien Ecoffet, Jeff Clune, Joel Lehman* <br>
 arXiv, 2020. [[Paper]](https://arxiv.org/abs/2006.07495) 
 
+* **Open Questions in Creating Safe Open-ended AI: Tensions Between Control and Creativity** <br>
+*Yoshua Bengio, Geoffrey Hinton, Andrew Yao, Dawn Song, Pieter Abbeel, Trevor Darrell, Yuval Noah Harari, Ya-Qin Zhang, Lan Xue, Shai Shalev-Shwartz, Gillian Hadfield, Jeff Clune, Tegan Maharaj, Frank Hutter, Atılım Güneş Baydin, Sheila McIlraith, Qiqi Gao, Ashwin Acharya, David Krueger, Anca Dragan, Philip Torr, Stuart Russell, Daniel Kahneman, Jan Brauner, Sören Mindermann* <br>
+Science, 2024. [[Paper]](https://arxiv.org/abs/2310.17688) 
+
 * **Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts** <br>
 *Mikayel Samvelyan, Sharath Chandra Raparthy, Andrei Lupu, Eric Hambro, Aram H. Markosyan, Manish Bhatt, Yuning Mao, Minqi Jiang, Jack Parker-Holder, Jakob Foerster, Tim Rocktäschel, Roberta Raileanu* <br>
 arXiv, 2024. [[Paper]](https://arxiv.org/abs/2402.16822) [[Website]](https://sites.google.com/view/rainbow-teaming)
 
-## <a name="safety"></a> Surveys and Perspectives on Open-Endedness
+## <a name="surveys"></a> Surveys and Perspectives on Open-Endedness
 
 * **Why Greatness Cannot Be Planned: The Myth of the Objective** <br>
 *Kenneth O. Stanley, Joel Lehman* <br>
@@ -219,3 +280,21 @@ arXiv, 2022. [[Paper]](https://arxiv.org/abs/2204.12639)
 * **General Intelligence Requires Rethinking Exploration** <br>
 *Minqi Jiang, Tim Rocktäschel, Edward Grefenstette* <br>
 Royal Society Open Science, 2023. [[Paper]](https://arxiv.org/abs/2211.07819)
+
+* **Open-Endedness is Essential for Artificial Superhuman Intelligence** <br>
+*Edward Hughes, Michael Dennis, Jack Parker-Holder, Feryal Behbahani, Aditi Mavalankar, Yuge Shi, Tom Schaul, Tim Rocktaschel* <br>
+ICML, 2024. [[Paper]](https://arxiv.org/abs/2406.04268)
+
+## <a name="blogs"></a> Blog Posts and Hacks
+
+* **Interactive poetry breeding through Mixtral base model LLMs** <br>
+*Joel Lehman*. 2024. [[Blog]](https://flourish.ing/interactive-poetry-breeding-through-mixtral-base-model-llms.html)
+
+* **Identifying Life-Changing Books with LLMs** <br>
+*Joel Lehman*. 2024. [[Blog]](https://flourish.ing/identifying-life-changing-books-with-llms.html)
+
+* **SerendipityLM: Interactive evolutionary exploration of generative design spaces with large language models** <br>
+*Samim*. 2024. [[Blog]](https://samim.io/studio/work/serendipityLM/)
+
+* **AiWallz: AI Wallpapers** <br>
+*Rach Pradhan, Jenny Zhang*. 2024. [[App]](https://www.aiwallz.com/) [[Blog1]](https://www.aiwallz.com/blog/aiwallz-and-open-endedness) [[Blog2]](https://www.aiwallz.com/blog/aiwallz-architecture)
