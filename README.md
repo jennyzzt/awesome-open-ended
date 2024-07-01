@@ -297,4 +297,4 @@ ICML, 2024. [[Paper]](https://arxiv.org/abs/2406.04268)
 *Samim*. 2024. [[Blog]](https://samim.io/studio/work/serendipityLM/)
 
 * **AiWallz: AI Wallpapers** <br>
-*Rach Pradhan, Jenny Zhang*. 2024. [[App]](https://www.aiwallz.com/) [[Blog1]](https://www.aiwallz.com/blog/aiwallz-and-open-endedness) [[Blog2]](https://www.aiwallz.com/blog/aiwallz-architecture)
+*Rach Pradhan, Jenny Zhang*. 2024. [[App]](https://www.aiwallz.com/) [[Blog]](https://www.aiwallz.com/blog)
