@@ -169,6 +169,11 @@ arXiv, 2023. [[Paper]](https://arxiv.org/abs/2310.12931) [[Code]](https://github
 *Muhammad U Nasir, Julian Togelius* <br>
 CoG, 2023. [[Paper]](https://arxiv.org/abs/2305.18243)
 
+* **Augmentative Topology Agents For Open-Ended Learning** <br>
+*Muhammad U. Nasir, Michael Beukman, Steven James, Christopher W. Cleghorn* <br>
+GECCO, 2023. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583133.3590576?casa_token=HxaGW9kHx3UAAAAA:7_JPaFAbzDZ_rlZqDDku_X-eb46ZRj87iz-rVDVpWs6NBHHoHXHL_3FdmpkajDdSQQi07kOxCElYMLA) [[Code]](https://github.com/umair-nasir14/ATEP)
+
+
 * **OMNI: Open-endedness via Models of human Notions of Interestingness** <br>
 *Jenny Zhang, Joel Lehman, Kenneth Stanley, Jeff Clune* <br>
 ICLR, 2024. [[Paper]](https://arxiv.org/abs/2306.01711) [[Code]](https://github.com/jennyzzt/omni) [[Website]](http://www.jennyzhangzt.com/omni/)
@@ -241,6 +246,10 @@ FDG, 2024. [[Paper]](https://arxiv.org/abs/2404.15538)
 *Bryan Lim, Manon Flageat, Antoine Cully* <br>
 arXiv, 2024. [[Paper]](https://arxiv.org/abs/2404.15794)
 
+* **Word2World: Generating Stories and Worlds through Large Language Models** <br>
+*Muhammad U. Nasir, Steven James, Julian Togelius* <br>
+arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2405.06686) [[Code]](https://github.com/umair-nasir14/Word2World)
+
 ## <a name="safety"></a> Open-Ended AI Safety
 
 * **Open Questions in Creating Safe Open-ended AI: Tensions Between Control and Creativity** <br>
@@ -254,14 +263,6 @@ Science, 2024. [[Paper]](https://arxiv.org/abs/2310.17688)
 * **Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts** <br>
 *Mikayel Samvelyan, Sharath Chandra Raparthy, Andrei Lupu, Eric Hambro, Aram H. Markosyan, Manish Bhatt, Yuning Mao, Minqi Jiang, Jack Parker-Holder, Jakob Foerster, Tim Rocktäschel, Roberta Raileanu* <br>
 arXiv, 2024. [[Paper]](https://arxiv.org/abs/2402.16822) [[Website]](https://sites.google.com/view/rainbow-teaming)
-
-* **Word2World: Generating Stories and Worlds through Large Language Models** <br>
-*Muhammad U. Nasir, Steven James, Julian Togelius* <br>
-arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2405.06686) [[Code]](https://github.com/umair-nasir14/Word2World)
-
-* **Augmentative Topology Agents For Open-Ended Learning** <br>
-*Muhammad U. Nasir, Michael Beukman, Steven James, Christopher W. Cleghorn* <br>
-GECCO, 2023. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583133.3590576?casa_token=HxaGW9kHx3UAAAAA:7_JPaFAbzDZ_rlZqDDku_X-eb46ZRj87iz-rVDVpWs6NBHHoHXHL_3FdmpkajDdSQQi07kOxCElYMLA) [[Code]](https://github.com/umair-nasir14/ATEP)
 
 ## <a name="surveys"></a> Surveys and Perspectives on Open-Endedness
 
