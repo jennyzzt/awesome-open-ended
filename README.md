@@ -255,6 +255,14 @@ Science, 2024. [[Paper]](https://arxiv.org/abs/2310.17688)
 *Mikayel Samvelyan, Sharath Chandra Raparthy, Andrei Lupu, Eric Hambro, Aram H. Markosyan, Manish Bhatt, Yuning Mao, Minqi Jiang, Jack Parker-Holder, Jakob Foerster, Tim Rocktäschel, Roberta Raileanu* <br>
 arXiv, 2024. [[Paper]](https://arxiv.org/abs/2402.16822) [[Website]](https://sites.google.com/view/rainbow-teaming)
 
+* **Word2World: Generating Stories and Worlds through Large Language Models** <br>
+*Muhammad U. Nasir, Steven James, Julian Togelius* <br>
+arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2405.06686) [[Code]](https://github.com/umair-nasir14/Word2World)
+
+* **Augmentative Topology Agents For Open-Ended Learning** <br>
+*Muhammad U. Nasir, Michael Beukman, Steven James, Christopher W. Cleghorn* <br>
+GECCO, 2023. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583133.3590576?casa_token=HxaGW9kHx3UAAAAA:7_JPaFAbzDZ_rlZqDDku_X-eb46ZRj87iz-rVDVpWs6NBHHoHXHL_3FdmpkajDdSQQi07kOxCElYMLA) [[Code]](https://github.com/umair-nasir14/ATEP)
+
 ## <a name="surveys"></a> Surveys and Perspectives on Open-Endedness
 
 * **Why Greatness Cannot Be Planned: The Myth of the Objective** <br>
