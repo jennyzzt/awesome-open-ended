@@ -262,7 +262,7 @@ Science, 2024. [[Paper]](https://arxiv.org/abs/2310.17688)
 
 * **Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts** <br>
 *Mikayel Samvelyan, Sharath Chandra Raparthy, Andrei Lupu, Eric Hambro, Aram H. Markosyan, Manish Bhatt, Yuning Mao, Minqi Jiang, Jack Parker-Holder, Jakob Foerster, Tim Rocktäschel, Roberta Raileanu* <br>
-arXiv, 2024. [[Paper]](https://arxiv.org/abs/2402.16822) [[Website]](https://sites.google.com/view/rainbow-teaming)
+NeurIPS, 2024. [[Paper]](https://arxiv.org/abs/2402.16822) [[Website]](https://sites.google.com/view/rainbow-teaming)
 
 ## <a name="surveys"></a> Surveys and Perspectives on Open-Endedness
 
