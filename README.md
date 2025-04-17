@@ -250,6 +250,22 @@ arXiv, 2024. [[Paper]](https://arxiv.org/abs/2404.15794)
 *Muhammad U. Nasir, Steven James, Julian Togelius* <br>
 arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2405.06686) [[Code]](https://github.com/umair-nasir14/Word2World)
 
+* **The AI Scientist: Towards fully automated open-ended scientific discovery** <br>
+*Chris Lu, Cong Lu, Robert Tjarko Lange, Jakob Foerster, Jeff Clune, David Ha* <br>
+arXiv, 2024. [[Paper]](https://arxiv.org/abs/2408.06292) [[Code]](https://github.com/SakanaAI/AI-Scientist)
+
+* **Automated design of agentic systems** <br>
+*Shengran Hu, Cong Lu, Jeff Clune* <br>
+ICLR, 2025. [[Paper]](https://arxiv.org/abs/2408.08435) [[Code]](https://github.com/ShengranHu/ADAS)
+
+* **Automated Capability Discovery via Model Self-Exploration** <br>
+*Cong Lu, Shengran Hu, Jeff Clune* <br>
+arXiv, 2025. [[Paper]](https://arxiv.org/abs/2502.07577) [[Code]](https://github.com/conglu1997/ACD)
+
+* **The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search** <br>
+*Yutaro Yamada, Robert Tjarko Lange, Cong Lu, Shengran Hu, Chris Lu, Jakob Foerster, Jeff Clune, David Ha* <br>
+arXiv, 2025. [[Paper]](https://arxiv.org/abs/2408.06292) [[Code]](https://github.com/SakanaAI/AI-Scientist-v2)
+
 ## <a name="safety"></a> Open-Ended AI Safety
 
 * **Open Questions in Creating Safe Open-ended AI: Tensions Between Control and Creativity** <br>
