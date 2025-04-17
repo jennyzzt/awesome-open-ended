@@ -280,6 +280,10 @@ Science, 2024. [[Paper]](https://arxiv.org/abs/2310.17688)
 *Mikayel Samvelyan, Sharath Chandra Raparthy, Andrei Lupu, Eric Hambro, Aram H. Markosyan, Manish Bhatt, Yuning Mao, Minqi Jiang, Jack Parker-Holder, Jakob Foerster, Tim Rocktäschel, Roberta Raileanu* <br>
 NeurIPS, 2024. [[Paper]](https://arxiv.org/abs/2402.16822) [[Website]](https://sites.google.com/view/rainbow-teaming)
 
+* **Safety is Essential for Responsible Open-Ended Systems** <br>
+*Ivaxi Sheth, Jan Wehner, Sahar Abdelnabi, Ruta Binkyte, Mario Fritz* <br>
+arXiv, 2025. [[Paper]](https://arxiv.org/abs/2502.04512)
+
 ## <a name="surveys"></a> Surveys and Perspectives on Open-Endedness
 
 * **Why Greatness Cannot Be Planned: The Myth of the Objective** <br>
