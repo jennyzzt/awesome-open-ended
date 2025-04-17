@@ -310,6 +310,10 @@ Royal Society Open Science, 2023. [[Paper]](https://arxiv.org/abs/2211.07819)
 *Edward Hughes, Michael Dennis, Jack Parker-Holder, Feryal Behbahani, Aditi Mavalankar, Yuge Shi, Tom Schaul, Tim Rocktaschel* <br>
 ICML, 2024. [[Paper]](https://arxiv.org/abs/2406.04268)
 
+* **Evolution and The Knightian Blindspot of Machine Learning** <br>
+*Joel Lehman, Elliot Meyerson, Tarek El-Gaaly, Kenneth O. Stanley, Tarin Ziyaee* <br>
+arXiv, 2025. [[Paper]](https://arxiv.org/abs/2501.13075)
+
 ## <a name="blogs"></a> Blog Posts and Hacks
 
 * **Interactive poetry breeding through Mixtral base model LLMs** <br>
@@ -320,6 +324,3 @@ ICML, 2024. [[Paper]](https://arxiv.org/abs/2406.04268)
 
 * **SerendipityLM: Interactive evolutionary exploration of generative design spaces with large language models** <br>
 *Samim*. 2024. [[Blog]](https://samim.io/studio/work/serendipityLM/)
-
-* **AiWallz: AI Wallpapers** <br>
-*Rach Pradhan, Jenny Zhang*. 2024. [[App]](https://www.aiwallz.com/) [[Blog]](https://www.aiwallz.com/blog)
