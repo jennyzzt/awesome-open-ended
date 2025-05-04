@@ -272,7 +272,7 @@ arXiv, 2025. [[Paper]](https://arxiv.org/abs/2408.06292) [[Code]](https://github
 *Adrien Ecoffet, Jeff Clune, Joel Lehman* <br>
 arXiv, 2020. [[Paper]](https://arxiv.org/abs/2006.07495) 
 
-* **Open Questions in Creating Safe Open-ended AI: Tensions Between Control and Creativity** <br>
+* **Managing extreme AI risks amid rapid progress** <br>
 *Yoshua Bengio, Geoffrey Hinton, Andrew Yao, Dawn Song, Pieter Abbeel, Trevor Darrell, Yuval Noah Harari, Ya-Qin Zhang, Lan Xue, Shai Shalev-Shwartz, Gillian Hadfield, Jeff Clune, Tegan Maharaj, Frank Hutter, Atılım Güneş Baydin, Sheila McIlraith, Qiqi Gao, Ashwin Acharya, David Krueger, Anca Dragan, Philip Torr, Stuart Russell, Daniel Kahneman, Jan Brauner, Sören Mindermann* <br>
 Science, 2024. [[Paper]](https://arxiv.org/abs/2310.17688) 
 
