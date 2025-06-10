@@ -266,6 +266,10 @@ arXiv, 2025. [[Paper]](https://arxiv.org/abs/2502.07577) [[Code]](https://github
 *Yutaro Yamada, Robert Tjarko Lange, Cong Lu, Shengran Hu, Chris Lu, Jakob Foerster, Jeff Clune, David Ha* <br>
 arXiv, 2025. [[Paper]](https://arxiv.org/abs/2408.06292) [[Code]](https://github.com/SakanaAI/AI-Scientist-v2)
 
+* **Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents** <br>
+*Jenny Zhang, Shengran Hu, Cong Lu, Robert Lange, Jeff Clune* <br>
+arXiv, 2025. [[Paper]](https://arxiv.org/abs/2505.22954) [[Code]](https://github.com/jennyzzt/dgm)
+
 ## <a name="safety"></a> Open-Ended AI Safety
 
 * **Open Questions in Creating Safe Open-ended AI: Tensions Between Control and Creativity** <br>
@@ -318,10 +322,6 @@ ICML, 2024. [[Paper]](https://arxiv.org/abs/2406.04268)
 *Joel Lehman, Elliot Meyerson, Tarek El-Gaaly, Kenneth O. Stanley, Tarin Ziyaee* <br>
 arXiv, 2025. [[Paper]](https://arxiv.org/abs/2501.13075)
 
-* **Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents** <br>
-*Jenny Zhang, Shengran Hu, Cong Lu, Robert Lange, Jeff Clune* <br>
-arXiv, 2025. [[Paper]](https://arxiv.org/abs/2505.22954) [[Code]](https://github.com/jennyzzt/dgm)
-
 ## <a name="blogs"></a> Blog Posts and Hacks
 
 * **Interactive poetry breeding through Mixtral base model LLMs** <br>
@@ -334,4 +334,4 @@ arXiv, 2025. [[Paper]](https://arxiv.org/abs/2505.22954) [[Code]](https://github
 *Samim*. 2024. [[Blog]](https://samim.io/studio/work/serendipityLM/)
 
 * **AI that can improve itself** <br>
-*Richard Cornelius Suwandi*. 2025. [[Blog]]([https://samim.io/studio/work/serendipityLM/](https://richardcsuwandi.github.io/blog/2025/dgm/))
+*Richard Cornelius Suwandi*. 2025. [[Blog]](https://richardcsuwandi.github.io/blog/2025/dgm/)
