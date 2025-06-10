@@ -320,7 +320,7 @@ arXiv, 2025. [[Paper]](https://arxiv.org/abs/2501.13075)
 
 * **Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents** <br>
 *Jenny Zhang, Shengran Hu, Cong Lu, Robert Lange, Jeff Clune* <br>
-arXiv, 2025. [[Paper]](https://arxiv.org/abs/2505.22954)
+arXiv, 2025. [[Paper]](https://arxiv.org/abs/2505.22954) [[Code]](https://github.com/jennyzzt/dgm)
 
 ## <a name="blogs"></a> Blog Posts and Hacks
 
