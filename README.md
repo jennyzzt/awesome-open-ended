@@ -8,7 +8,7 @@ A curated list of open-ended learning AI resources. The aim of open-ended algori
 * [Blog Posts and Hacks](#blogs)
 
 ## <a name="contributing"></a> Contributing
-When submitting a pull request, please put the new paper at the correct chronological position as the following format: <br>
+We warmly welcome contributions! If you know of a paper, project, or resource related to open-endedness that isn’t listed yet, feel free to open a pull request. Please follow this simple format when adding a new paper (ordered by publication date):
 ```
 * **Paper Title** <br>
 *Author(s)* <br>
