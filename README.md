@@ -270,6 +270,10 @@ arXiv, 2025. [[Paper]](https://arxiv.org/abs/2408.06292) [[Code]](https://github
 *Jenny Zhang, Shengran Hu, Cong Lu, Robert Lange, Jeff Clune* <br>
 arXiv, 2025. [[Paper]](https://arxiv.org/abs/2505.22954) [[Code]](https://github.com/jennyzzt/dgm)
 
+* **Evolving Prompts In-Context: An Open-ended, Self-replicating Perspective** <br>
+*Jianyu Wang, Zhiqiang Hu, Lidong Bing* <br>
+ICML, 2025. [[Paper]](https://openreview.net/pdf?id=jXZR3XinPg) [[Code]](https://github.com/jianyu-cs/PromptQuine/)
+
 ## <a name="safety"></a> Open-Ended AI Safety
 
 * **Open Questions in Creating Safe Open-ended AI: Tensions Between Control and Creativity** <br>
