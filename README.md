@@ -274,6 +274,14 @@ arXiv, 2025. [[Paper]](https://arxiv.org/abs/2505.22954) [[Code]](https://github
 *Jianyu Wang, Zhiqiang Hu, Lidong Bing* <br>
 ICML, 2025. [[Paper]](https://openreview.net/pdf?id=jXZR3XinPg) [[Code]](https://github.com/jianyu-cs/PromptQuine/)
 
+* **Questioning Representational Optimism in Deep Learning: The Fractured Entangled Representation Hypothesis** <br>
+*Akarsh Kumar, Jeff Clune, Joel Lehman, Kenneth O. Stanley* <br>
+arXiv, 2025. [[Paper]](https://arxiv.org/abs/2505.11581)
+
+* **Foundation Model Self-Play: Open-Ended Strategy Innovation via Foundation Models** <br>
+*Aaron Dharna, Cong Lu, Jeff Clune* <br>
+RL Journal, 2025. [[Paper]](https://arxiv.org/abs/2507.06466)
+
 ## <a name="safety"></a> Open-Ended AI Safety
 
 * **Open Questions in Creating Safe Open-ended AI: Tensions Between Control and Creativity** <br>
@@ -337,5 +345,11 @@ arXiv, 2025. [[Paper]](https://arxiv.org/abs/2501.13075)
 * **SerendipityLM: Interactive evolutionary exploration of generative design spaces with large language models** <br>
 *Samim*. 2024. [[Blog]](https://samim.io/studio/work/serendipityLM/)
 
-* **AI that can improve itself** <br>
+* **AI That Can Improve Itself** <br>
 *Richard Cornelius Suwandi*. 2025. [[Blog]](https://richardcsuwandi.github.io/blog/2025/dgm/)
+
+* **The Future of AI is Open-Ended** <br>
+*Richard Cornelius Suwandi*. 2025. [[Blog]](https://richardcsuwandi.github.io/blog/2025/open-endedness/)
+
+* **The Science of Intelligent Exploration** <br>
+*Richard Cornelius Suwandi*. 2025. [[Blog]](https://richardcsuwandi.github.io/blog/2025/exploration-in-ai/)
