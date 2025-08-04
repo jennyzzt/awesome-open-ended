@@ -353,3 +353,6 @@ arXiv, 2025. [[Paper]](https://arxiv.org/abs/2501.13075)
 
 * **The Science of Intelligent Exploration** <br>
 *Richard Cornelius Suwandi*. 2025. [[Blog]](https://richardcsuwandi.github.io/blog/2025/exploration-in-ai/)
+
+* **Bootstrapping Intelligence: Self-Improving Systems for Open-Ended Discovery** <br>
+*Pranoy Panda*. 2025. [[Blog]](https://pranoy-panda.github.io/2025/07/30/3rd.html) [[Code]](https://github.com/pranoy-panda/open-ended-discovery)
