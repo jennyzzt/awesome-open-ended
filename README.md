@@ -266,6 +266,10 @@ arXiv, 2025. [[Paper]](https://arxiv.org/abs/2502.07577) [[Code]](https://github
 *Yutaro Yamada, Robert Tjarko Lange, Cong Lu, Shengran Hu, Chris Lu, Jakob Foerster, Jeff Clune, David Ha* <br>
 arXiv, 2025. [[Paper]](https://arxiv.org/abs/2408.06292) [[Code]](https://github.com/SakanaAI/AI-Scientist-v2)
 
+* **Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement** <br>
+*Xunjian Yin, Xinyi Wang, Liangming Pan, Li Lin, Xiaojun Wan, William Yang Wang* <br>
+ACL, 2025. [[Paper]](https://arxiv.org/abs/2410.04444) [[Code]](https://github.com/Arvid-pku/Godel_Agent)
+
 * **Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents** <br>
 *Jenny Zhang, Shengran Hu, Cong Lu, Robert Lange, Jeff Clune* <br>
 arXiv, 2025. [[Paper]](https://arxiv.org/abs/2505.22954) [[Code]](https://github.com/jennyzzt/dgm)
