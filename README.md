@@ -304,6 +304,10 @@ NeurIPS, 2024. [[Paper]](https://arxiv.org/abs/2402.16822) [[Website]](https://s
 *Ivaxi Sheth, Jan Wehner, Sahar Abdelnabi, Ruta Binkyte, Mario Fritz* <br>
 arXiv, 2025. [[Paper]](https://arxiv.org/abs/2502.04512)
 
+* **AgenticRed: Optimizing Agentic Systems for Automated Red-teaming** <br>
+*Jiayi Yuan, Jonathan Nöther, Natasha Jaques, Goran Radanović* <br>
+arXiv, 2026. [[Paper]](https://arxiv.org/abs/2601.13518) [[Website]](https://yuanjiayiy.github.io/AgenticRed)
+
 ## <a name="surveys"></a> Surveys and Perspectives on Open-Endedness
 
 * **Why Greatness Cannot Be Planned: The Myth of the Objective** <br>
