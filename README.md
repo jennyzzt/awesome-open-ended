@@ -17,6 +17,14 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ## <a name="papers"></a> Papers
 
+* **Exploiting Open-Endedness to Solve Problems Through the Search for Novelty** <br>
+*Joel Lehman, Kenneth O. Stanley* <br>
+ALife, 2008. [[Paper]](https://gwern.net/doc/reinforcement-learning/exploration/2008-lehman.pdf)
+
+* **Identifying Necessary Conditions for Open-Ended Evolution through the Artificial Life World of Chromaria** <br>
+*L. B. Soros, Kenneth O. Stanley* <br>
+ALife, 2014. [[Paper]](https://pdfs.semanticscholar.org/4671/423a1b65f3e35dce603f8746e72ae31193dc.pdf) [[Code]](https://github.com/lsoros/chromaria)
+
 * **Minimal Criterion Coevolution: A New Approach to Open-Ended Search** <br>
 *Jonathan C. Brant, Kenneth O. Stanley* <br>
 GECCO, 2017. [[Paper]](https://dl.acm.org/doi/10.1145/3071178.3071186) [[Code]](https://github.com/jbrant/MinimalCriterionCoevolution)
