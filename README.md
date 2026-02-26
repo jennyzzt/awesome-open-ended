@@ -278,10 +278,6 @@ arXiv, 2025. [[Paper]](https://arxiv.org/abs/2408.06292) [[Code]](https://github
 *Xunjian Yin, Xinyi Wang, Liangming Pan, Li Lin, Xiaojun Wan, William Yang Wang* <br>
 ACL, 2025. [[Paper]](https://arxiv.org/abs/2410.04444) [[Code]](https://github.com/Arvid-pku/Godel_Agent)
 
-* **Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents** <br>
-*Jenny Zhang, Shengran Hu, Cong Lu, Robert Lange, Jeff Clune* <br>
-arXiv, 2025. [[Paper]](https://arxiv.org/abs/2505.22954) [[Code]](https://github.com/jennyzzt/dgm)
-
 * **Evolving Prompts In-Context: An Open-ended, Self-replicating Perspective** <br>
 *Jianyu Wang, Zhiqiang Hu, Lidong Bing* <br>
 ICML, 2025. [[Paper]](https://openreview.net/pdf?id=jXZR3XinPg) [[Code]](https://github.com/jianyu-cs/PromptQuine/)
@@ -293,6 +289,14 @@ arXiv, 2025. [[Paper]](https://arxiv.org/abs/2505.11581)
 * **Foundation Model Self-Play: Open-Ended Strategy Innovation via Foundation Models** <br>
 *Aaron Dharna, Cong Lu, Jeff Clune* <br>
 RL Journal, 2025. [[Paper]](https://arxiv.org/abs/2507.06466)
+
+* **Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents** <br>
+*Jenny Zhang, Shengran Hu, Cong Lu, Robert Lange, Jeff Clune* <br>
+ICLR, 2026. [[Paper]](https://arxiv.org/abs/2505.22954) [[Code]](https://github.com/jennyzzt/dgm)
+
+* **Learning to Continually Learn via Meta-learning Agentic Memory Designs** <br>
+*Yiming Xiong, Shengran Hu, Jeff Clune* <br>
+arXiv, 2026. [[Paper]](https://arxiv.org/abs/2602.07755)
 
 ## <a name="safety"></a> Open-Ended AI Safety
 
