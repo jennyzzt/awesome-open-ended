@@ -298,6 +298,10 @@ ICLR, 2026. [[Paper]](https://arxiv.org/abs/2505.22954) [[Code]](https://github.
 *Yiming Xiong, Shengran Hu, Jeff Clune* <br>
 arXiv, 2026. [[Paper]](https://arxiv.org/abs/2602.07755)
 
+* **TRACED: Transition-Aware Regret Approximation with Co-Learnability for Environment Design** <br>
+*Geonwoo Cho, Jaegyun Im, Jihwan Lee, Hojun Yi, Sejin Kim, Sundong Kim* <br>
+ICLR, 2026. [[Paper]](https://arxiv.org/abs/2506.19997) [[Code]](https://github.com/Cho-Geonwoo/TRACED)
+
 ## <a name="safety"></a> Open-Ended AI Safety
 
 * **Open Questions in Creating Safe Open-ended AI: Tensions Between Control and Creativity** <br>
