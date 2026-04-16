@@ -298,6 +298,10 @@ ICLR, 2026. [[Paper]](https://arxiv.org/abs/2505.22954) [[Code]](https://github.
 *Yiming Xiong, Shengran Hu, Jeff Clune* <br>
 arXiv, 2026. [[Paper]](https://arxiv.org/abs/2602.07755)
 
+* **CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery** <br>
+*Ao Qu, Han Zheng, Zijian Zhou, Yihao Yan, Yihong Tang, Shao Yong Ong, Fenglu Hong, Kaichen Zhou, Chonghe Jiang, Minwei Kong, Jiacheng Zhu, Xuan Jiang, Sirui Li, Cathy Wu, Bryan Kian Hsiang Low, Jinhua Zhao, Paul Pu Liang* <br>
+arXiv, 2026. [[Paper]](https://arxiv.org/abs/2604.01658) [[Code]](https://github.com/Human-Agent-Society/CORAL) [[Website]](https://human-agent-society.github.io/CORAL/)
+
 ## <a name="safety"></a> Open-Ended AI Safety
 
 * **Open Questions in Creating Safe Open-ended AI: Tensions Between Control and Creativity** <br>
