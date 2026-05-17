@@ -6,6 +6,7 @@ A curated list of open-ended learning AI resources. The aim of open-ended algori
 * [Open-ended AI Safety](#safety)
 * [Surveys and Perspectives](#surveys)
 * [Blog Posts and Hacks](#blogs)
+* [Videos](#videos)
 
 ## <a name="contributing"></a> Contributing
 We warmly welcome contributions! If you know of a paper, project, or resource related to open-endedness that isn’t listed yet, feel free to open a pull request. Please follow this simple format when adding a new paper (ordered by publication date):
@@ -384,3 +385,20 @@ arXiv, 2025. [[Paper]](https://arxiv.org/abs/2501.13075)
 
 * **Bootstrapping Intelligence: Self-Improving Systems for Open-Ended Discovery** <br>
 *Pranoy Panda*. 2025. [[Blog]](https://pranoy-panda.github.io/2025/07/30/3rd.html) [[Code]](https://github.com/pranoy-panda/open-ended-discovery)
+
+## <a name="videos"></a> Videos
+
+* **Endlessly Generating Increasingly Complex and Diverse Learning Environments and their Solutions through the Paired Open-Ended Trailblazer (POET)** <br>
+*Jeff Clune*. 2019. [[Video]](https://youtu.be/CsizpWJ-nD0)
+
+* **Novel Opportunities in Open-Endedness** <br>
+*Kenneth O. Stanley*. 2022. [[Video]](https://youtu.be/T08wc4xD3KA)
+
+* **Improving Deep Reinforcement Learning via Quality Diversity, Open-Ended and AI-Generating Algorithms** <br>
+*Jeff Clune*. 2023. [[Video]](https://youtu.be/5jL5wRGrCvk)
+
+* **Open-Endedness, World Models, and the Automation of Innovation** <br>
+*Tim Rocktaeschel*. 2025. [[Video]](https://iclr.cc/virtual/2025/invited-talk/36780)
+
+* **Open-ended and AI-generating algorithms in the era of foundation models** <br>
+*Jeff Clune*. 2025. [[Video]](https://youtu.be/gIHAVTj9fjo)
