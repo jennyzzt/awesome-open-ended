@@ -295,6 +295,10 @@ RL Journal, 2025. [[Paper]](https://arxiv.org/abs/2507.06466)
 *Jenny Zhang, Shengran Hu, Cong Lu, Robert Lange, Jeff Clune* <br>
 ICLR, 2026. [[Paper]](https://arxiv.org/abs/2505.22954) [[Code]](https://github.com/jennyzzt/dgm)
 
+* **DéjàQ: Open-Ended Evolution of Diverse, Learnable and Verifiable Problems** <br>
+*Willem Röpke, Samuel Coward, Andrei Lupu, Thomas Foster, Tim Rocktäschel, Jakob Foerster* <br>
+arXiv, 2026. [[Paper]](https://arxiv.org/abs/2601.01931)
+
 * **Learning to Continually Learn via Meta-learning Agentic Memory Designs** <br>
 *Yiming Xiong, Shengran Hu, Jeff Clune* <br>
 arXiv, 2026. [[Paper]](https://arxiv.org/abs/2602.07755)
@@ -306,6 +310,14 @@ arXiv, 2026. [[Paper]](https://arxiv.org/abs/2603.19461) [[Code]](https://github
 * **CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery** <br>
 *Ao Qu, Han Zheng, Zijian Zhou, Yihao Yan, Yihong Tang, Shao Yong Ong, Fenglu Hong, Kaichen Zhou, Chonghe Jiang, Minwei Kong, Jiacheng Zhu, Xuan Jiang, Sirui Li, Cathy Wu, Bryan Kian Hsiang Low, Jinhua Zhao, Paul Pu Liang* <br>
 arXiv, 2026. [[Paper]](https://arxiv.org/abs/2604.01658) [[Code]](https://github.com/Human-Agent-Society/CORAL) [[Website]](https://human-agent-society.github.io/CORAL/)
+
+* **Dreaming in Code for Curriculum Learning in Open-Ended Worlds** <br>
+*Konstantinos Mitsides, Maxence Faldor, Antoine Cully* <br>
+ICML, 2026. [[Paper]](https://arxiv.org/abs/2602.08194) [[Code]](https://github.com/konstantinosmitsides/dreaming-in-code) [[Website]](https://konstantinosmitsides.github.io/dreaming-in-code/)
+
+* **In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models** <br>
+*Sam Earle, Kai Arulkumaran, Andrew Dai, Akarsh Kumar, Julian Togelius, Sebastian Risi* <br>
+GECCO, 2026. [[Paper]](https://arxiv.org/abs/2605.23908) [[Code]](https://github.com/smearle/picbreeder-vlm)
 
 ## <a name="safety"></a> Open-Ended AI Safety
 
