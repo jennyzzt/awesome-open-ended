@@ -355,6 +355,10 @@ O'Reilly Radar, 2017. [[Paper]](https://www.oreilly.com/radar/open-endedness-the
 *Jeff Clune* <br>
 arXiv, 2019. [[Paper]](https://arxiv.org/abs/1905.10985)
 
+* **DREAM Architecture: a Developmental Approach to Open-Ended Learning in Robotics** <br>
+*Stephane Doncieux, Nicolas Bredeche, Léni Le Goff, Benoît Girard, Alexandre Coninx, Olivier Sigaud, Mehdi Khamassi, Natalia Díaz-Rodríguez, David Filliat, Timothy Hospedales, A. E. Eiben, Richard Duro* <br>
+arXiv, 2020. [[Paper]](https://arxiv.org/abs/2005.06223)
+
 * **Creative Problem Solving in Artificially Intelligent Agents: A Survey and Framework** <br>
 *Evana Gizzi, Lakshmi Nair, Sonia Chernova, Jivko Sinapov* <br>
 arXiv, 2022. [[Paper]](https://arxiv.org/abs/2204.10358)
