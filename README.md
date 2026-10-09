@@ -379,6 +379,14 @@ ICML, 2024. [[Paper]](https://arxiv.org/abs/2406.04268)
 *Joel Lehman, Elliot Meyerson, Tarek El-Gaaly, Kenneth O. Stanley, Tarin Ziyaee* <br>
 arXiv, 2025. [[Paper]](https://arxiv.org/abs/2501.13075)
 
+* **A Compositional Framework for Open-ended Intelligence** <br>
+*Ida Momennejad, Roberta Raileanu* <br>
+arXiv, 2026. [[Paper]](https://arxiv.org/abs/2606.15386)
+
+* **Beyond Fixed Representations: The Vocabulary and Verifier Gaps in Open-Ended AI** <br>
+*Yuan Cao, Haiqian Yang* <br>
+arXiv, 2026. [[Paper]](https://arxiv.org/abs/2607.09560)
+
 ## <a name="blogs"></a> Blog Posts and Hacks
 
 * **Interactive poetry breeding through Mixtral base model LLMs** <br>
