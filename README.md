@@ -321,7 +321,7 @@ GECCO, 2026. [[Paper]](https://arxiv.org/abs/2605.23908) [[Code]](https://github
 
 * **Forty Shades of Blue: Quality-Diversity Alignment via Mode-Conditioned Reinforcement Learning** <br>
 *Jiayi Yuan, Hangoo Kang, James Jihao Liu, Yejin Choi, Vikram Iyer, Liwei Jiang, Natasha Jaques* <br>
-arXiv, 2026. [[Paper]](https://arxiv.org/abs/2609.14896)
+arXiv, 2026. [[Paper]](https://arxiv.org/abs/2609.14896) [[Code]](https://github.com/yuanjiayiy/mode-conditioned-diversity-alignment) [[Website]](https://yuanjiayiy.github.io/MODA/)
 
 ## <a name="safety"></a> Open-Ended AI Safety
 
