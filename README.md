@@ -319,6 +319,10 @@ ICML, 2026. [[Paper]](https://arxiv.org/abs/2602.08194) [[Code]](https://github.
 *Sam Earle, Kai Arulkumaran, Andrew Dai, Akarsh Kumar, Julian Togelius, Sebastian Risi* <br>
 GECCO, 2026. [[Paper]](https://arxiv.org/abs/2605.23908) [[Code]](https://github.com/smearle/picbreeder-vlm)
 
+* **Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy** <br>
+*Youran Sun, Xingyu Ren, Chugang Yi, Jiaxuan Guo, Kejia Zhang, Jianda Du, Haizhao Yang* <br>
+arXiv, 2026. [[Paper]](https://arxiv.org/abs/2606.24177) [[Code]](https://github.com/AutoResearch-Factory/Agon) [[Website]](https://haizhaoyang.github.io/research/autoresearch.html)
+
 * **Forty Shades of Blue: Quality-Diversity Alignment via Mode-Conditioned Reinforcement Learning** <br>
 *Jiayi Yuan, Hangoo Kang, James Jihao Liu, Yejin Choi, Vikram Iyer, Liwei Jiang, Natasha Jaques* <br>
 arXiv, 2026. [[Paper]](https://arxiv.org/abs/2609.14896) [[Code]](https://github.com/yuanjiayiy/mode-conditioned-diversity-alignment) [[Website]](https://yuanjiayiy.github.io/MODA/)
