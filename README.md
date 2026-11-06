@@ -331,6 +331,10 @@ arXiv, 2026. [[Paper]](https://arxiv.org/abs/2608.16876) [[Code]](https://github
 *Jiayi Yuan, Hangoo Kang, James Jihao Liu, Yejin Choi, Vikram Iyer, Liwei Jiang, Natasha Jaques* <br>
 arXiv, 2026. [[Paper]](https://arxiv.org/abs/2609.14896) [[Code]](https://github.com/yuanjiayiy/mode-conditioned-diversity-alignment) [[Website]](https://yuanjiayiy.github.io/MODA/)
 
+* **SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization** <br>
+*Qile Jiang, George Em Karniadakis* <br>
+arXiv, 2026. [[Paper]](https://arxiv.org/abs/2611.08483) [[Code]](https://github.com/Qile-J/SwarmEvolve)
+
 ## <a name="safety"></a> Open-Ended AI Safety
 
 * **Open Questions in Creating Safe Open-ended AI: Tensions Between Control and Creativity** <br>
