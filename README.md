@@ -323,6 +323,10 @@ GECCO, 2026. [[Paper]](https://arxiv.org/abs/2605.23908) [[Code]](https://github
 *Youran Sun, Xingyu Ren, Chugang Yi, Jiaxuan Guo, Kejia Zhang, Jianda Du, Haizhao Yang* <br>
 arXiv, 2026. [[Paper]](https://arxiv.org/abs/2606.24177) [[Code]](https://github.com/AutoResearch-Factory/Agon) [[Website]](https://haizhaoyang.github.io/research/autoresearch.html)
 
+* **AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search** <br>
+*Weicheng Ye, Youran Sun, Xingyu Ren, Shunyao Yu, Chugang Yi, Haizhao Yang* <br>
+arXiv, 2026. [[Paper]](https://arxiv.org/abs/2608.11250) [[Code]](https://github.com/AutoResearch-Factory/AgonAlpha)
+
 * **AutoSR: Automatic Symbolic Regression by Searching Research States** <br>
 *Kejia Zhang, Youran Sun, Xingyu Ren, Chugang Yi, Haizhao Yang* <br>
 arXiv, 2026. [[Paper]](https://arxiv.org/abs/2608.16876) [[Code]](https://github.com/AutoResearch-Factory/AutoSR) [[Website]](https://autosr.app)
