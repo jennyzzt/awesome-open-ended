@@ -335,6 +335,10 @@ arXiv, 2026. [[Paper]](https://arxiv.org/abs/2608.16876) [[Code]](https://github
 *Jiayi Yuan, Hangoo Kang, James Jihao Liu, Yejin Choi, Vikram Iyer, Liwei Jiang, Natasha Jaques* <br>
 arXiv, 2026. [[Paper]](https://arxiv.org/abs/2609.14896) [[Code]](https://github.com/yuanjiayiy/mode-conditioned-diversity-alignment) [[Website]](https://yuanjiayiy.github.io/MODA/)
 
+* **Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station** <br>
+*Wenyu Du, Stephen Chung* <br>
+arXiv, 2026. [[Paper]](https://arxiv.org/abs/2610.08927) [[Code]](https://github.com/dualverse-ai/station) [[Website]](https://dualverse.ai/station/)
+
 * **SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization** <br>
 *Qile Jiang, George Em Karniadakis* <br>
 arXiv, 2026. [[Paper]](https://arxiv.org/abs/2611.08483) [[Code]](https://github.com/Qile-J/SwarmEvolve)
