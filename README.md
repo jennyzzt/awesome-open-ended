@@ -409,7 +409,7 @@ arXiv, 2026. [[Paper]](https://arxiv.org/abs/2606.15386)
 
 * **What's Missing in Autonomous Research? A Systematization of Systems, Benchmarks, and Verification** <br>
 *Xingyu Ren, Youran Sun, Chugang Yi, Kejia Zhang, Jiaxuan Guo, Jianda Du, Haizhao Yang* <br>
-Preprint, 2026. [[Paper]](https://www.researchgate.net/publication/406952713) [[Website]](https://haizhaoyang.github.io/research/autoresearch-survey.html)
+Preprint, 2026. [[Paper]](https://www.researchgate.net/publication/406952713_What%27s_Missing_in_Autonomous_Research_A_Systematization_of_SystemsBenchmarks_and_Verification) [[Website]](https://haizhaoyang.github.io/research/autoresearch-survey.html)
 
 * **Beyond Fixed Representations: The Vocabulary and Verifier Gaps in Open-Ended AI** <br>
 *Yuan Cao, Haiqian Yang* <br>
